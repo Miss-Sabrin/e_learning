@@ -2,6 +2,19 @@
 
 A new Flutter project.
 
+
+
+<img width="364" alt="desing_mobile" src="https://github.com/Miss-Sabrin/e_learning/assets/111917067/4c27ec18-e066-4958-a65d-d5d8136f4f7d">
+
+
+
+
+
+
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
